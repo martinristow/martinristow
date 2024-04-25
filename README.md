@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Laravel 11, Client-Server Communication**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at [coming soon]
 
 - 💬 Ask me about **Laravel , PHP, MYSQL**
 
