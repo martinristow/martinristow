@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [LearnHub](https://learnhub.mk/)
 
-- 🌱 I’m currently learning **I am currently studying at the Faculty of Informatics, where I am in my third year in the field of computer science. My studies cover a wide range of topics, including programming, algorithms, web development, databases and machine learning.**
+- 🌱 I’m currently studying **at the Faculty of Informatics, where I am in my third year in the field of computer science. My studies cover a wide range of topics, including programming, algorithms, web development, databases and machine learning.**
 
 - 👨‍💻 All of my projects are available at [coming soon]
 
