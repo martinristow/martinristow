@@ -36,7 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinristow&show_icons=true&locale=en" alt="martinristow" /></p>
 
-[![](https://leetcard.jacoblin.cool/martinristovv?border=0&radius=20)](https://leetcode.com/martinristovv/)
+
 
 
 
