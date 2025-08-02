@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinristow&label=Profile%20views&color=0e75b6&style=flat" alt="martinristow" /> </p>
 
-- 🔭 I’m currently a member of [LearnHub](https://learnhub.mk/)
-
-- 🌱 I’m currently learning **Front-End**
+- 🔭 I’m currently working as a **Frontend Developer Intern at [Pixyle.ai](https://pixyle.ai/)**
 
 - 💼 Open to collaboration on **interesting projects**
 
